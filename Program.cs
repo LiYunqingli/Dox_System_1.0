@@ -249,10 +249,6 @@ namespace app_system
 
         static void Main(string[] args)
         {
-            ///
-            ////用于班级数据库1.0的数据管理系统，以及日志查看，还原操作
-            ///
-
             ///log_system可获得本地的base文件夹修改权限
             //string str = System.Environment.CurrentDirectory;
             //string a = localhost(1);

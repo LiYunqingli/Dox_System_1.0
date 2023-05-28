@@ -1,0 +1,5 @@
+[PRINT]  print(输出一些内容)，您可以在print的后面添加一个参数关键字以便系统判断需要输出的内容。
+用法：
+print string 输出string的字符串内容
+print ip   输出本地网络连接的所有IP地址
+print sys_language 输出当前DOX系统语言
